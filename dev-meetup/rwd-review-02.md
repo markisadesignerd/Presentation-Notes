@@ -42,13 +42,13 @@ Custom routing system that leverages AJAX and history pushState. No page refresh
 
 Perfect use case for retina imagery - you want to see high-fidelity imagery for products.
 
-jQuery in the head?
+<b>Updated</b> <del>jQuery in the head?</del>
 
 Using font-face and CSS3 where possilbe. Good.
 
 This is .NET MVC, so I'd be interested to see what's going on behind the scenes, specifically with the [Sitemap](http://www.digiorno.com/Sitemap) page.
 
-On product page, hero shots are just img tags. Narrow viewports just get "display: none" so the 100kb image still gets downloaded.
+<b>Updated</b> <del>On product page, hero shots are just img tags. Narrow viewports just get "display: none" so the 100kb image still gets downloaded.</del>
 
 Menu open uses JS animations. Using CSS would provide a smooter transition.
 
